@@ -19,7 +19,7 @@ public class Main {
             System.out.print("Choose an option: ");
 
             int choice = in.nextInt();
-            in.nextLine(); // تنظيف البافر
+            in.nextLine();
 
             switch (choice) {
                 case 1:
